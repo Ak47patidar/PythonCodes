@@ -1,0 +1,25 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/PycharmProjects/Program_01_60&#10;C:/Users/7/PycharmProjects&#10;C:/Users/7/PycharmProjects/Excercise/wake_up_motivation.mp3&#10;C:/Users/7/PycharmProjects/Excercise/eyes.mp3&#10;C:/Users/7/PycharmProjects/Excercise/excercise.ogg&#10;C:/Users/excercise.ogg&#10;C:/Users/water.wav&#10;C:/Users/eyes.mp3&#10;C:/Users/water.mp3.wav" />
+    <property name="file.gist.reindex.count" value="8927" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="lastTip" value="1" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Python 38\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
